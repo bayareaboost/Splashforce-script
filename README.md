@@ -28,7 +28,7 @@ Configuration
 
 4. CartChannel: name of the channel where the bot posts your carts 
 
-![alt text](https://i.gyazo.com/f9afb6b90cd677a5e8e0ff933988a850.png "Reference")
+![alt text](https://i.gyazo.com/f9afb6b90cd677a5e8e0ff933988a850.png "Reference")\n
 5. CartBot: name of bot that posts your carts, **with #0000**
 
 ![alt text](https://i.gyazo.com/53b70531ac0f8291976d7764e726902d.png "Reference")
