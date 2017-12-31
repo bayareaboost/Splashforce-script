@@ -33,5 +33,6 @@ Configuration
 
 ![alt text](https://i.gyazo.com/53b70531ac0f8291976d7764e726902d.png "Reference")
 6. Servers: Name of server it should work on
+
 7. Whitelist: Whitelisted users (Users who are allowed to use the commands)
 
