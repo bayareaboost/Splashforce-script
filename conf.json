@@ -1,0 +1,15 @@
+{
+  "token": "MTk4NjAxMTA3NTk1OTg0ODk3.DSkkiw.Pa2Y5PK0c0chIpV-2u2evrXVXIE",
+  "prefix": "!",
+  "allowInDm": true,
+  "cartChannel": "carts",
+  "cartBot": "Splashforce#0000",
+  "servers":
+  [
+    "Hype Central"
+  ],
+  "whitelist":
+  [
+    "nvda#4780"
+  ]
+}
